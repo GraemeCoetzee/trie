@@ -1,0 +1,25 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "description": "Compiax code challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraemeCoetzee/trie.git"
+  },
+  "author": "Graeme Coetzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraemeCoetzee/trie/issues"
+  },
+  "homepage": "https://github.com/GraemeCoetzee/trie#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "vis-network": "^6.0.0"
+  }
+}
